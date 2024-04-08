@@ -1,0 +1,5 @@
+Copy these from Draeger Winaccess API provided with Infinity Gateway
+IGAcsMsg.dll
+IGAcsMsg.lib
+WvAPI.dll
+WvAPI.lib

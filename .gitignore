@@ -1,0 +1,12 @@
+/Release
+/Debug
+vcpkg/
+.vs
+IGAcsMsgd.dll
+IGAcsMsgd.lib
+WvAPID.dll
+WvAPID.lib
+IGAcsMsg.dll
+IGAcsMsg.lib
+WvAPI.dll
+WvAPI.lib

@@ -1,0 +1,23 @@
+Dump of file WvApi.dll
+
+File Type: DLL
+
+  Image has the following dependencies:
+
+    WINMM.dll
+    WS2_32.dll
+    WvSvc.dll
+    IGAcsMsg.dll
+    mfc100u.dll
+    MSVCR100.dll
+    KERNEL32.dll
+    USER32.dll
+    MSVCP100.dll
+
+  Summary
+
+       29000 .data
+       13000 .rdata
+        A000 .reloc
+        1000 .rsrc
+       38000 .text
