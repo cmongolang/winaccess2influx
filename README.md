@@ -1,7 +1,7 @@
 # Winaccess2influx Data research tool
 
 Winaccess2influx is a research tool for capturing vital signs data from Draeger Infinity Gateway API interface and exporting to influxdb time series database.
-This tool is not validated for clinical diagnostic purposes
+This tool is not validated for clinical diagnostic purposes.
 The tool generates API calls to vendor supplied WvApi.dll, and exports data to influxDB time series database.
 
 # Quick Start
